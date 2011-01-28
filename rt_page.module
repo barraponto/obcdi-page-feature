@@ -1,0 +1,3 @@
+<?php
+
+include_once('rt_page.features.inc');
